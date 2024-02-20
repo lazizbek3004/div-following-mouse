@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    background-color: hsl(0, 1%, 36%);
+    position: relative;
+}
+
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    
+}
+
+
+
